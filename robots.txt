@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asiangamesmedaltally2026.pages.dev/sitemap.xml
